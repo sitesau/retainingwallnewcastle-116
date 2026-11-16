@@ -1,0 +1,22 @@
+{
+  "wheel_id": 907,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-116",
+  "project": "retaining-walls-newcastle-how-to-choose-6afaf9896522eb35c957242",
+  "parent_t1_ref": "retainingwallnewcastle-157",
+  "node_role": "feeder",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining walls newcastle how to choose",
+  "intended_url": "https://sites-e470-2.web.app/retaining-walls-newcastle-how-to-choose-6afaf9896522eb35c957242/",
+  "tier": "T2",
+  "writeback_nonce": "373326901ac8751e",
+  "links": [
+    {
+      "target_url": "http://retaining-walls-newcastle-seasonal-timing-a4b6076629e7b48bf9d29.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "this retaining walls newcastle seasonal timing guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
